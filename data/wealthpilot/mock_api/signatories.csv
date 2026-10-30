@@ -1,0 +1,21 @@
+user_id,name,authority,approval_limit_inr,active
+ASH-U-001,Aryan Maharaj,Credit Officer,1000000,True
+ASH-U-002,Udant Dewan,Credit Officer,1000000,False
+ASH-U-003,Gagan Sami,Credit Officer,1000000,True
+ASH-U-004,Ayushman Chander,Credit Officer,1000000,True
+ASH-U-005,Viraj Tiwari,Credit Officer,1000000,True
+ASH-U-006,Rushil Saini,Credit Officer,1000000,True
+ASH-U-007,Saumya Mall,Credit Officer,1000000,True
+ASH-U-008,Nathaniel Sami,Credit Officer,1000000,False
+ASH-U-009,Arunima Dugal,Credit Officer,1000000,False
+ASH-U-010,Gayathri Chaudry,Credit Officer,1000000,True
+ASH-U-011,Lajita Chatterjee,Credit Officer,1000000,True
+ASH-U-012,Hemangini Lalla,Credit Officer,1000000,True
+ASH-U-013,Tripti Yadav,Credit Committee,5000000,True
+ASH-U-014,Kritika Brar,Credit Committee,5000000,True
+ASH-U-015,Janaki Handa,Credit Committee,5000000,True
+ASH-U-016,Chakradev Kari,Credit Committee,5000000,True
+ASH-U-017,Fariq Kaul,Credit Committee,5000000,True
+ASH-U-018,Lajita Mall,Credit Committee,5000000,False
+ASH-U-019,Janya Gaba,Board Credit Committee,,True
+ASH-U-020,Isha Kadakia,Board Credit Committee,,True

@@ -1,0 +1,12 @@
+limit,value,unit,description
+min_dscr,1.25,ratio,"Minimum DSCR, unless the sector floor is higher"
+min_months_operating,24,months,Minimum operating history
+max_leverage,6.0,x EBITDA,"Existing debt plus the proposed loan, over EBITDA"
+min_current_ratio,1.1,ratio,Current assets over current liabilities
+min_bureau_score,450,score,Below this the bureau record is adverse
+write_off_limit_inr,500000,INR,A written-off amount at or above this is a past delinquency
+auto_approve_limit_inr,1000000,INR,Largest loan the system may approve on its own
+signatory_threshold_inr,5000000,INR,Above this a named human signatory is mandatory
+revenue_tolerance_pct,10,percent,"Declared versus verified revenue; beyond it, DOC_MISMATCH"
+fraud_hold_pct,25,percent,"Declared versus verified revenue; beyond it, fraud hold"
+assessment_rate_pct,14.0,percent a year,Rate used to stress-test the proposed loan in the DSCR

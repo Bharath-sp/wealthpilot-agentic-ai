@@ -1,0 +1,4 @@
+authority,max_loan_inr,named_signatory_required
+Credit Officer,1000000,False
+Credit Committee,5000000,False
+Board Credit Committee,,True

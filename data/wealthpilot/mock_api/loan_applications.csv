@@ -1,0 +1,351 @@
+application_id,applicant_id,received_on,requested_amount_inr,requested_tenor_months,purpose,declared_annual_revenue_inr,existing_annual_debt_service_inr,current_assets_inr,current_liabilities_inr,collateral_type,collateral_value_inr,export_receivables_usd,proprietor_name,city,application_language
+ASH-L-00000,ASH-A-00000,2026-06-05,900000,36,inventory build-up,9748000,296000,2633000,1487000,none,0,0,Ekbal Garg,Kanpur,Telugu
+ASH-L-00001,ASH-A-00001,2026-06-12,5100000,36,machinery purchase,85000000,7238000,28416000,15299000,inventory,10122000,310000,Nihal Shere,Pune,Marathi
+ASH-L-00002,ASH-A-00002,2026-07-29,5100000,60,working capital,85000000,598000,23955000,21027000,plant and machinery,7207000,0,Anamika Kanda,Indore,English
+ASH-L-00003,ASH-A-00003,2026-07-21,250000,24,inventory build-up,5257000,342000,1051000,698000,none,0,0,Daksh Karnik,Tiruppur,Gujarati
+ASH-L-00004,ASH-A-00004,2026-06-29,1800000,72,debt refinancing,18873000,371000,3195000,1920000,plant and machinery,2905000,0,Diya Rattan,Rajkot,Urdu
+ASH-L-00005,ASH-A-00005,2026-06-28,350000,60,debt refinancing,18960000,1171000,4863000,2088000,inventory,195000,0,Dominic Kakar,Bengaluru,Tamil
+ASH-L-00006,ASH-A-00006,2026-07-23,550000,48,debt refinancing,9000000,681000,4123000,2149000,inventory,491000,230000,Simon Tata,Kanpur,Telugu
+ASH-L-00007,ASH-A-00007,2026-06-24,200000,48,machinery purchase,4500000,203000,1858000,910000,commercial property,98000,0,Tara Dhar,Hyderabad,Marathi
+ASH-L-00008,ASH-A-00008,2026-06-10,250000,24,debt refinancing,4500000,302000,1110000,745000,inventory,444000,0,Liam Koshy,Indore,Urdu
+ASH-L-00009,ASH-A-00009,2026-07-28,1350000,36,premises expansion,9000000,417000,2293000,1326000,plant and machinery,1908000,0,Priya Rastogi,Kanpur,Hindi
+ASH-L-00010,ASH-A-00010,2026-06-09,1800000,60,working capital,18000000,1300000,4784000,2797000,commercial property,913000,0,Theodore Devi,Malegaon,English
+ASH-L-00011,ASH-A-00011,2026-07-07,5100000,24,debt refinancing,85000000,6001000,19058000,13578000,inventory,2359000,0,Gavin Batta,Mumbai,Telugu
+ASH-L-00012,ASH-A-00012,2026-06-05,550000,48,premises expansion,9000000,263000,2309000,1931000,receivables,191000,55000,Michael Dutta,Rajkot,Gujarati
+ASH-L-00013,ASH-A-00013,2026-06-11,450000,24,debt refinancing,4500000,328000,2078000,957000,inventory,318000,0,Devansh Rajan,Mumbai,Hindi
+ASH-L-00014,ASH-A-00014,2026-06-19,700000,36,machinery purchase,18000000,1787000,6336000,3137000,commercial property,972000,0,Upadhriti Wadhwa,Kanpur,Gujarati
+ASH-L-00015,ASH-A-00015,2026-06-30,200000,36,working capital,4500000,199000,1394000,640000,none,0,0,Advay Contractor,Tiruppur,English
+ASH-L-00016,ASH-A-00016,2026-07-07,5100000,48,machinery purchase,85000000,1267000,24232000,20764000,inventory,3576000,0,Harini Choudhury,Tiruppur,Telugu
+ASH-L-00017,ASH-A-00017,2026-07-10,200000,60,working capital,6190000,192000,1005000,868000,receivables,255000,0,Radhika Dugar,Mumbai,Marathi
+ASH-L-00018,ASH-A-00018,2026-07-10,550000,36,premises expansion,9000000,574000,4571000,2104000,none,0,0,Aarush Lall,Mumbai,Marathi
+ASH-L-00019,ASH-A-00019,2026-07-08,1800000,24,working capital,18000000,105000,6175000,2947000,commercial property,3508000,0,Yashica Cherian,Rajkot,Hindi
+ASH-L-00020,ASH-A-00020,2026-06-29,900000,24,working capital,9000000,294000,1662000,1187000,inventory,1593000,0,Yashica Issac,Tiruppur,Marathi
+ASH-L-00021,ASH-A-00021,2026-06-13,1350000,24,inventory build-up,9000000,878000,4187000,2237000,none,0,0,Kashvi Edwin,Tiruppur,Telugu
+ASH-L-00022,ASH-A-00022,2026-06-24,200000,24,inventory build-up,4500000,193000,1951000,924000,receivables,196000,0,Ekiya Suresh,Ludhiana,Telugu
+ASH-L-00023,ASH-A-00023,2026-06-16,2500000,36,machinery purchase,42000000,1409000,10259000,4266000,commercial property,2075000,0,Isaac Patil,Ludhiana,Urdu
+ASH-L-00024,ASH-A-00024,2026-06-17,1700000,72,working capital,113405000,10583000,21499000,18066000,commercial property,616000,0,Wriddhish Bhardwaj,Surat,English
+ASH-L-00025,ASH-A-00025,2026-06-04,1350000,24,working capital,11868000,719000,2528000,1371000,receivables,2227000,0,Farhan Chada,Indore,Marathi
+ASH-L-00026,ASH-A-00026,2026-07-27,200000,36,debt refinancing,4500000,124000,1251000,550000,commercial property,295000,0,Ekapad Walia,Coimbatore,Gujarati
+ASH-L-00027,ASH-A-00027,2026-07-22,200000,60,premises expansion,9000000,114000,1151000,1066000,receivables,203000,0,Kabir Soman,Bengaluru,English
+ASH-L-00028,ASH-A-00028,2026-07-05,350000,24,premises expansion,18000000,697000,4526000,3615000,plant and machinery,741000,0,Alka Wable,Malegaon,Tamil
+ASH-L-00029,ASH-A-00029,2026-06-17,8500000,60,debt refinancing,85000000,490000,33207000,13651000,receivables,4359000,0,Siddharth Zacharia,Surat,English
+ASH-L-00030,ASH-A-00030,2026-07-18,200000,36,working capital,12480000,918000,4322000,2144000,plant and machinery,221000,160000,Devika Rastogi,Indore,Urdu
+ASH-L-00031,ASH-A-00031,2026-07-03,850000,60,debt refinancing,42000000,2934000,21534000,8946000,inventory,949000,0,Raksha Varughese,Surat,English
+ASH-L-00032,ASH-A-00032,2026-06-29,12750000,36,machinery purchase,85000000,5227000,9557000,9365000,inventory,13562000,0,Jai Kota,Kanpur,Tamil
+ASH-L-00033,ASH-A-00033,2026-07-27,5100000,24,machinery purchase,85000000,841000,17312000,10415000,commercial property,3022000,0,Devansh Nigam,Ludhiana,Tamil
+ASH-L-00034,ASH-A-00034,2026-07-29,200000,36,debt refinancing,1300000,112000,441000,290000,inventory,115000,0,Victor Kannan,Tiruppur,Gujarati
+ASH-L-00035,ASH-A-00035,2026-06-06,200000,48,debt refinancing,4755000,66000,719000,592000,receivables,354000,0,Ekavir Bhargava,Kanpur,English
+ASH-L-00036,ASH-A-00036,2026-07-19,8500000,36,premises expansion,89208000,7038000,24778000,14976000,plant and machinery,5038000,0,Ekansh Balay,Bengaluru,Urdu
+ASH-L-00037,ASH-A-00037,2026-07-17,200000,72,inventory build-up,1200000,53000,573000,270000,commercial property,209000,340000,Ekavir Varkey,Hyderabad,English
+ASH-L-00038,ASH-A-00038,2026-06-17,12750000,36,debt refinancing,85000000,2939000,18165000,10110000,plant and machinery,14209000,0,Arya Sunder,Kanpur,Tamil
+ASH-L-00039,ASH-A-00039,2026-06-21,350000,36,machinery purchase,12330000,60000,2286000,1344000,receivables,613000,0,Kevin Solanki,Pune,Urdu
+ASH-L-00040,ASH-A-00040,2026-07-26,200000,48,debt refinancing,1200000,68000,337000,135000,receivables,242000,0,Urvashi Ray,Coimbatore,Gujarati
+ASH-L-00041,ASH-A-00041,2026-06-08,1350000,72,premises expansion,9000000,693000,1389000,1253000,inventory,2178000,0,Girindra Chatterjee,Hyderabad,English
+ASH-L-00042,ASH-A-00042,2026-07-20,850000,48,machinery purchase,44830000,1820000,14479000,7709000,receivables,1407000,200000,Irya Sampath,Malegaon,Telugu
+ASH-L-00043,ASH-A-00043,2026-06-09,250000,24,machinery purchase,4500000,21000,1006000,971000,receivables,285000,370000,Unni Bhagat,Coimbatore,Marathi
+ASH-L-00044,ASH-A-00044,2026-06-22,12750000,36,machinery purchase,85000000,1731000,29327000,14443000,inventory,22012000,200000,Darsh Rau,Ludhiana,Gujarati
+ASH-L-00045,ASH-A-00045,2026-06-21,2500000,24,working capital,42000000,2482000,5814000,4762000,inventory,4971000,335000,Ikbal Kothari,Malegaon,Gujarati
+ASH-L-00046,ASH-A-00046,2026-07-27,1800000,36,debt refinancing,18000000,78000,4781000,2614000,inventory,1092000,0,Ranveer Yadav,Indore,Telugu
+ASH-L-00047,ASH-A-00047,2026-06-03,2500000,36,inventory build-up,42000000,291000,14571000,7851000,plant and machinery,920000,60000,Logan Sami,Indore,English
+ASH-L-00048,ASH-A-00048,2026-06-11,350000,60,machinery purchase,18000000,1580000,5833000,3615000,inventory,405000,0,Arya Shere,Mumbai,Urdu
+ASH-L-00049,ASH-A-00049,2026-06-12,2500000,24,inventory build-up,42000000,851000,17006000,7512000,commercial property,3717000,0,Faqid Savant,Surat,Marathi
+ASH-L-00050,ASH-A-00050,2026-07-21,550000,36,debt refinancing,9000000,349000,4220000,1776000,commercial property,476000,0,Chandresh Zachariah,Mumbai,Hindi
+ASH-L-00051,ASH-A-00051,2026-06-06,700000,36,premises expansion,18000000,561000,6421000,4364000,receivables,888000,0,Girik Khalsa,Ludhiana,English
+ASH-L-00052,ASH-A-00052,2026-06-07,250000,36,inventory build-up,4500000,428000,1225000,897000,receivables,235000,15000,Niharika Sunder,Tiruppur,Marathi
+ASH-L-00053,ASH-A-00053,2026-06-03,550000,60,premises expansion,9000000,261000,2746000,1159000,none,0,305000,Tanay Rattan,Mumbai,Tamil
+ASH-L-00054,ASH-A-00054,2026-07-11,200000,24,debt refinancing,4500000,66000,2404000,996000,plant and machinery,329000,0,Nitesh Raghavan,Kanpur,Tamil
+ASH-L-00055,ASH-A-00055,2026-06-03,2700000,24,inventory build-up,18000000,789000,7962000,3901000,receivables,1742000,130000,Madhavi Lanka,Malegaon,Telugu
+ASH-L-00056,ASH-A-00056,2026-07-07,1800000,36,machinery purchase,18000000,783000,3706000,2021000,commercial property,962000,0,Bhavika Sampath,Pune,Gujarati
+ASH-L-00057,ASH-A-00057,2026-07-14,200000,24,premises expansion,1305000,111000,163000,142000,plant and machinery,118000,0,Mohammed Gupta,Bengaluru,Marathi
+ASH-L-00058,ASH-A-00058,2026-06-26,8500000,48,inventory build-up,90834000,3309000,36893000,16713000,commercial property,12809000,0,Teerth Bhardwaj,Ludhiana,Hindi
+ASH-L-00059,ASH-A-00059,2026-06-16,12750000,60,premises expansion,85000000,4682000,23791000,10873000,none,0,310000,Dipta Bhandari,Pune,Marathi
+ASH-L-00060,ASH-A-00060,2026-07-22,900000,36,inventory build-up,12280000,663000,2027000,1591000,commercial property,1735000,0,Vansha Thakkar,Ludhiana,Gujarati
+ASH-L-00061,ASH-A-00061,2026-07-24,5100000,48,machinery purchase,85000000,1102000,23963000,12532000,commercial property,4371000,195000,Dakshesh Trivedi,Tiruppur,Urdu
+ASH-L-00062,ASH-A-00062,2026-06-07,1700000,36,working capital,85000000,4067000,24402000,10367000,none,0,85000,Quincy Biswas,Kanpur,Marathi
+ASH-L-00063,ASH-A-00063,2026-06-26,700000,72,debt refinancing,4862000,16000,1994000,920000,receivables,546000,0,Wahab Raval,Pune,Hindi
+ASH-L-00064,ASH-A-00064,2026-06-21,1800000,24,inventory build-up,18803000,60000,2747000,1824000,inventory,2927000,0,Yatin Baral,Coimbatore,Tamil
+ASH-L-00065,ASH-A-00065,2026-06-29,12750000,48,working capital,91209000,2663000,23528000,9832000,receivables,14648000,260000,Oni Virk,Kanpur,Gujarati
+ASH-L-00066,ASH-A-00066,2026-06-20,200000,24,machinery purchase,4500000,22000,1545000,763000,plant and machinery,140000,0,Advika Jayaraman,Indore,Urdu
+ASH-L-00067,ASH-A-00067,2026-06-27,6300000,24,working capital,42000000,3948000,12157000,6483000,none,0,270000,William Lanka,Bengaluru,Gujarati
+ASH-L-00068,ASH-A-00068,2026-07-12,1350000,36,working capital,9000000,418000,2520000,1085000,commercial property,2098000,0,Karan Mital,Mumbai,Gujarati
+ASH-L-00069,ASH-A-00069,2026-07-02,850000,24,working capital,49935000,1684000,13264000,6441000,receivables,850000,0,Diya Bora,Ludhiana,Urdu
+ASH-L-00070,ASH-A-00070,2026-07-27,1100000,24,machinery purchase,18000000,870000,4836000,2975000,commercial property,1739000,0,Tara Chaudhry,Indore,Urdu
+ASH-L-00071,ASH-A-00071,2026-06-14,700000,36,machinery purchase,18000000,393000,4947000,2990000,none,0,0,Tanay Toor,Pune,English
+ASH-L-00072,ASH-A-00072,2026-07-07,1700000,36,inventory build-up,118944000,7309000,26934000,14442000,inventory,981000,0,Kevin Palla,Ludhiana,English
+ASH-L-00073,ASH-A-00073,2026-07-27,2500000,36,inventory build-up,42000000,2755000,5099000,4315000,inventory,2922000,85000,Yash Pingle,Ludhiana,Gujarati
+ASH-L-00074,ASH-A-00074,2026-06-26,200000,24,inventory build-up,4500000,171000,995000,598000,receivables,116000,0,Nakul Sarma,Kanpur,Urdu
+ASH-L-00075,ASH-A-00075,2026-06-28,200000,60,premises expansion,1480000,41000,236000,172000,plant and machinery,152000,0,Abhiram Mistry,Mumbai,Urdu
+ASH-L-00076,ASH-A-00076,2026-07-24,1700000,48,machinery purchase,85000000,2423000,16358000,9068000,commercial property,2316000,0,Krish Lalla,Malegaon,English
+ASH-L-00077,ASH-A-00077,2026-07-15,1800000,60,inventory build-up,18000000,487000,4089000,2919000,plant and machinery,2343000,0,Hredhaan Dugal,Malegaon,Marathi
+ASH-L-00078,ASH-A-00078,2026-07-13,200000,24,inventory build-up,4500000,533000,1070000,739000,inventory,431000,0,Baghyawati Kade,Bengaluru,Urdu
+ASH-L-00079,ASH-A-00079,2026-06-23,200000,36,working capital,1200000,78000,475000,256000,receivables,273000,320000,Samar Lalla,Rajkot,Marathi
+ASH-L-00080,ASH-A-00080,2026-06-05,900000,48,inventory build-up,9000000,171000,2427000,1807000,none,0,0,Zayan Behl,Surat,Marathi
+ASH-L-00081,ASH-A-00081,2026-06-02,700000,24,debt refinancing,4696000,231000,1457000,972000,plant and machinery,895000,0,Pallavi Malhotra,Surat,Marathi
+ASH-L-00082,ASH-A-00082,2026-06-13,1700000,72,inventory build-up,85000000,2430000,23542000,19550000,plant and machinery,1508000,395000,Aarush Nath,Ludhiana,Hindi
+ASH-L-00083,ASH-A-00083,2026-07-04,2700000,24,debt refinancing,18000000,1145000,4709000,3067000,plant and machinery,4150000,0,Adweta Edwin,Coimbatore,English
+ASH-L-00084,ASH-A-00084,2026-07-03,350000,24,inventory build-up,18000000,1740000,8137000,3674000,inventory,594000,0,Prisha Andra,Indore,Urdu
+ASH-L-00085,ASH-A-00085,2026-06-04,200000,36,inventory build-up,1200000,112000,167000,129000,receivables,129000,0,Faqid Dixit,Indore,Hindi
+ASH-L-00086,ASH-A-00086,2026-07-13,200000,24,debt refinancing,1284000,8000,596000,270000,inventory,331000,0,Kala Divan,Kanpur,Hindi
+ASH-L-00087,ASH-A-00087,2026-06-21,700000,24,working capital,18000000,2463000,2492000,2329000,commercial property,998000,0,Joshua Barman,Indore,Gujarati
+ASH-L-00088,ASH-A-00088,2026-06-16,1700000,48,working capital,85000000,859000,18240000,10259000,commercial property,2419000,0,Janya Baral,Hyderabad,Urdu
+ASH-L-00089,ASH-A-00089,2026-06-06,2500000,36,working capital,58029000,1413000,8231000,4437000,receivables,3584000,35000,Shivansh Krish,Hyderabad,Urdu
+ASH-L-00090,ASH-A-00090,2026-07-19,1700000,36,premises expansion,85000000,6616000,27549000,14395000,plant and machinery,2563000,330000,Irya Ray,Indore,Telugu
+ASH-L-00091,ASH-A-00091,2026-07-31,900000,36,working capital,9000000,211000,3399000,1693000,none,0,0,Warjas Gaba,Mumbai,Gujarati
+ASH-L-00092,ASH-A-00092,2026-06-27,200000,72,working capital,4500000,198000,1202000,689000,plant and machinery,330000,0,Nitara Bakshi,Tiruppur,Urdu
+ASH-L-00093,ASH-A-00093,2026-07-19,350000,24,working capital,18000000,768000,4131000,3098000,inventory,338000,200000,Gaurangi Sabharwal,Kanpur,Gujarati
+ASH-L-00094,ASH-A-00094,2026-06-06,200000,72,machinery purchase,4500000,77000,813000,716000,receivables,348000,0,Amara Dutta,Bengaluru,Urdu
+ASH-L-00095,ASH-A-00095,2026-07-09,2500000,24,debt refinancing,42000000,3137000,7214000,5592000,inventory,3398000,0,Lavanya Barad,Rajkot,Urdu
+ASH-L-00096,ASH-A-00096,2026-07-31,5100000,36,machinery purchase,85000000,259000,12109000,11211000,commercial property,7886000,0,Tristan Iyengar,Surat,English
+ASH-L-00097,ASH-A-00097,2026-07-05,200000,72,inventory build-up,1289000,161000,214000,174000,plant and machinery,116000,0,Inaya Mody,Rajkot,English
+ASH-L-00098,ASH-A-00098,2026-06-26,700000,36,working capital,4500000,31000,981000,783000,commercial property,237000,0,Udant Bajwa,Rajkot,Tamil
+ASH-L-00099,ASH-A-00099,2026-07-28,12750000,24,machinery purchase,85000000,5533000,29553000,13705000,none,0,0,Mohini Narasimhan,Bengaluru,Gujarati
+ASH-L-00100,ASH-A-00100,2026-07-03,1800000,36,debt refinancing,18000000,299000,6631000,4323000,commercial property,3082000,0,Ekaraj Mallick,Bengaluru,Tamil
+ASH-L-00101,ASH-A-00101,2026-07-22,200000,48,premises expansion,1441000,2000,246000,122000,commercial property,244000,0,Yashodhara Ratta,Surat,Hindi
+ASH-L-00102,ASH-A-00102,2026-06-08,1700000,24,premises expansion,44238000,678000,14647000,5953000,plant and machinery,2559000,0,Ayaan D’Alia,Bengaluru,Marathi
+ASH-L-00103,ASH-A-00103,2026-07-01,200000,48,inventory build-up,4500000,62000,1553000,692000,receivables,84000,0,Pranav Lanka,Pune,Gujarati
+ASH-L-00104,ASH-A-00104,2026-06-20,200000,60,premises expansion,1285000,22000,595000,278000,none,0,315000,Ikbal Saraf,Bengaluru,Tamil
+ASH-L-00105,ASH-A-00105,2026-06-26,200000,24,working capital,1200000,61000,320000,162000,plant and machinery,133000,0,Dipta Sarin,Surat,Marathi
+ASH-L-00106,ASH-A-00106,2026-06-23,900000,24,premises expansion,9000000,53000,3850000,1775000,inventory,1026000,225000,Lekha Gupta,Hyderabad,Telugu
+ASH-L-00107,ASH-A-00107,2026-06-20,200000,36,working capital,4500000,310000,1316000,566000,none,0,0,Chaitanya Sarin,Tiruppur,Gujarati
+ASH-L-00108,ASH-A-00108,2026-06-30,700000,36,working capital,18000000,1569000,5379000,3284000,inventory,228000,330000,Zinal Yohannan,Hyderabad,Urdu
+ASH-L-00109,ASH-A-00109,2026-07-06,350000,72,inventory build-up,9526000,19000,3472000,1522000,none,0,0,Januja Sankar,Mumbai,Urdu
+ASH-L-00110,ASH-A-00110,2026-07-22,8500000,36,working capital,85000000,1845000,13884000,10375000,receivables,11108000,135000,Ganga Murthy,Ludhiana,Tamil
+ASH-L-00111,ASH-A-00111,2026-06-05,1350000,24,inventory build-up,9511000,612000,2877000,1908000,receivables,1722000,0,Charita Tripathi,Kanpur,Tamil
+ASH-L-00112,ASH-A-00112,2026-07-09,12750000,36,working capital,85000000,546000,21235000,20730000,inventory,6804000,375000,Nilima Narain,Kanpur,Telugu
+ASH-L-00113,ASH-A-00113,2026-06-11,6300000,36,working capital,44460000,1020000,8100000,5762000,none,0,20000,Chakrika Datta,Kanpur,Tamil
+ASH-L-00114,ASH-A-00114,2026-06-09,2500000,60,machinery purchase,42000000,1743000,14598000,8585000,inventory,4229000,0,Osha Raghavan,Malegaon,Gujarati
+ASH-L-00115,ASH-A-00115,2026-06-16,900000,36,working capital,9000000,411000,2574000,1155000,plant and machinery,1291000,0,Charvi Ravi,Surat,Telugu
+ASH-L-00116,ASH-A-00116,2026-07-16,4200000,72,machinery purchase,42000000,2737000,21316000,9613000,inventory,2514000,0,Daksha Mangat,Bengaluru,Gujarati
+ASH-L-00117,ASH-A-00117,2026-06-28,200000,72,debt refinancing,4500000,237000,1466000,606000,none,0,0,Qushi Nagy,Surat,Hindi
+ASH-L-00118,ASH-A-00118,2026-06-19,850000,48,debt refinancing,45151000,4537000,7682000,5666000,inventory,809000,0,Riya Sathe,Ludhiana,English
+ASH-L-00119,ASH-A-00119,2026-06-08,1700000,48,inventory build-up,85000000,1540000,26631000,13800000,plant and machinery,928000,345000,Yasti Solanki,Coimbatore,Urdu
+ASH-L-00120,ASH-A-00120,2026-07-30,1800000,72,inventory build-up,18000000,347000,8633000,4455000,inventory,2891000,135000,Frado Mander,Surat,Gujarati
+ASH-L-00121,ASH-A-00121,2026-07-08,6300000,24,premises expansion,42000000,2317000,19311000,8550000,receivables,5814000,0,Girik Keer,Rajkot,Urdu
+ASH-L-00122,ASH-A-00122,2026-07-18,5100000,48,debt refinancing,85000000,2544000,30624000,21089000,receivables,3768000,0,Umang Issac,Tiruppur,Hindi
+ASH-L-00123,ASH-A-00123,2026-06-04,200000,48,debt refinancing,9000000,286000,4151000,2134000,inventory,82000,265000,Aryan Batra,Indore,Urdu
+ASH-L-00124,ASH-A-00124,2026-06-11,200000,60,machinery purchase,1200000,104000,694000,296000,commercial property,243000,310000,Vaishnavi Bora,Rajkot,Gujarati
+ASH-L-00125,ASH-A-00125,2026-06-06,6300000,36,working capital,42000000,1364000,14392000,5980000,receivables,5572000,0,Oeshi Hayer,Surat,English
+ASH-L-00126,ASH-A-00126,2026-07-29,6300000,60,inventory build-up,42000000,2065000,7102000,5105000,receivables,6215000,370000,Warda Ratta,Rajkot,English
+ASH-L-00127,ASH-A-00127,2026-07-20,1100000,48,premises expansion,18000000,132000,10737000,4439000,none,0,185000,Manbir Ahluwalia,Mumbai,Marathi
+ASH-L-00128,ASH-A-00128,2026-06-13,700000,48,machinery purchase,19172000,955000,3985000,2915000,commercial property,938000,285000,Pavani Kanda,Tiruppur,English
+ASH-L-00129,ASH-A-00129,2026-06-03,250000,48,premises expansion,4500000,76000,1018000,673000,commercial property,402000,0,Zarna Shetty,Rajkot,Telugu
+ASH-L-00130,ASH-A-00130,2026-06-22,1800000,24,machinery purchase,18000000,1173000,5138000,3698000,receivables,2249000,380000,Zaid Dara,Kanpur,Marathi
+ASH-L-00131,ASH-A-00131,2026-07-26,700000,36,machinery purchase,4500000,381000,2139000,857000,none,0,0,Kiaan Shetty,Kanpur,Hindi
+ASH-L-00132,ASH-A-00132,2026-07-07,2700000,36,debt refinancing,18000000,767000,5729000,3527000,commercial property,2961000,0,Saanvi Thaman,Surat,Gujarati
+ASH-L-00133,ASH-A-00133,2026-07-20,4200000,36,inventory build-up,42000000,220000,18333000,8230000,commercial property,3882000,0,Sanaya Dutt,Mumbai,Tamil
+ASH-L-00134,ASH-A-00134,2026-06-06,450000,36,machinery purchase,4500000,109000,1527000,671000,commercial property,675000,0,Shivani Lad,Mumbai,Urdu
+ASH-L-00135,ASH-A-00135,2026-07-10,700000,24,premises expansion,4500000,370000,507000,490000,inventory,1188000,160000,Aradhana Verma,Rajkot,Marathi
+ASH-L-00136,ASH-A-00136,2026-06-19,350000,60,inventory build-up,22934000,533000,3920000,2575000,inventory,365000,375000,William Maharaj,Kanpur,Gujarati
+ASH-L-00137,ASH-A-00137,2026-06-27,350000,60,inventory build-up,18000000,554000,6539000,3021000,inventory,110000,45000,Faras Mangal,Surat,English
+ASH-L-00138,ASH-A-00138,2026-08-01,2700000,60,machinery purchase,18000000,765000,3562000,2373000,commercial property,3539000,0,Anita Nayak,Mumbai,Hindi
+ASH-L-00139,ASH-A-00139,2026-07-19,200000,36,premises expansion,1200000,33000,206000,142000,plant and machinery,201000,0,Faris Devi,Tiruppur,Telugu
+ASH-L-00140,ASH-A-00140,2026-07-30,1700000,60,machinery purchase,54656000,3028000,15067000,7528000,plant and machinery,2939000,0,Vihaan Rajagopal,Bengaluru,Urdu
+ASH-L-00141,ASH-A-00141,2026-07-25,200000,48,debt refinancing,4500000,89000,1110000,465000,receivables,289000,0,Tanish Bhatt,Tiruppur,Urdu
+ASH-L-00142,ASH-A-00142,2026-07-23,200000,48,premises expansion,1200000,68000,255000,140000,none,0,0,Nikita Narayanan,Coimbatore,Hindi
+ASH-L-00143,ASH-A-00143,2026-06-28,900000,60,premises expansion,9000000,1070000,3485000,2063000,inventory,985000,0,Ojasvi Bhatia,Hyderabad,Urdu
+ASH-L-00144,ASH-A-00144,2026-06-24,4200000,48,debt refinancing,42000000,1611000,15294000,9950000,receivables,5179000,0,Osha Ramachandran,Tiruppur,Marathi
+ASH-L-00145,ASH-A-00145,2026-06-07,1800000,24,inventory build-up,18000000,339000,4256000,3015000,inventory,2868000,235000,Lajita Sood,Rajkot,Gujarati
+ASH-L-00146,ASH-A-00146,2026-07-25,200000,48,machinery purchase,9000000,13000,2989000,1953000,commercial property,247000,0,Indira Misra,Kanpur,Telugu
+ASH-L-00147,ASH-A-00147,2026-07-03,450000,24,machinery purchase,4500000,351000,1684000,859000,inventory,462000,0,Oni Yohannan,Hyderabad,English
+ASH-L-00148,ASH-A-00148,2026-06-14,2500000,36,working capital,44202000,756000,20387000,10349000,inventory,4189000,0,Vinaya Kanda,Ludhiana,Gujarati
+ASH-L-00149,ASH-A-00149,2026-07-09,12750000,48,premises expansion,85000000,4514000,50783000,20735000,receivables,11630000,0,Rajata Sunder,Tiruppur,Marathi
+ASH-L-00150,ASH-A-00150,2026-07-07,700000,24,debt refinancing,19114000,931000,6717000,3663000,plant and machinery,919000,0,Lopa Nayar,Pune,English
+ASH-L-00151,ASH-A-00151,2026-07-07,850000,24,machinery purchase,54990000,2403000,17527000,7053000,commercial property,863000,0,Noah Sibal,Pune,Tamil
+ASH-L-00152,ASH-A-00152,2026-07-02,450000,24,debt refinancing,4500000,537000,1239000,799000,plant and machinery,618000,0,Avi Ramesh,Pune,Marathi
+ASH-L-00153,ASH-A-00153,2026-07-02,350000,24,premises expansion,18000000,35000,5209000,4271000,receivables,535000,0,Fiyaz Sangha,Coimbatore,Hindi
+ASH-L-00154,ASH-A-00154,2026-06-02,450000,48,debt refinancing,4500000,267000,1737000,960000,receivables,547000,0,Triya Gopal,Indore,Gujarati
+ASH-L-00155,ASH-A-00155,2026-06-24,700000,60,inventory build-up,18000000,360000,6977000,3283000,plant and machinery,678000,0,Abha Raghavan,Indore,Hindi
+ASH-L-00156,ASH-A-00156,2026-07-26,1100000,60,inventory build-up,18000000,1186000,5740000,4335000,commercial property,1393000,0,Siddharth Sha,Surat,Hindi
+ASH-L-00157,ASH-A-00157,2026-07-28,200000,36,machinery purchase,4500000,203000,1789000,734000,receivables,227000,0,Geetika Raghavan,Indore,Gujarati
+ASH-L-00158,ASH-A-00158,2026-07-09,200000,24,machinery purchase,1200000,52000,423000,242000,receivables,311000,60000,Oviya Krishnan,Hyderabad,Gujarati
+ASH-L-00159,ASH-A-00159,2026-07-28,200000,60,premises expansion,1200000,105000,326000,150000,plant and machinery,277000,0,Upma Bahl,Rajkot,Hindi
+ASH-L-00160,ASH-A-00160,2026-06-26,200000,72,machinery purchase,4500000,300000,1550000,1021000,inventory,78000,0,Inaya Kapur,Coimbatore,Marathi
+ASH-L-00161,ASH-A-00161,2026-07-15,2700000,36,inventory build-up,18000000,1126000,4191000,3038000,commercial property,3960000,0,Banjeet Balasubramanian,Hyderabad,Tamil
+ASH-L-00162,ASH-A-00162,2026-07-23,200000,24,debt refinancing,1200000,100000,238000,187000,commercial property,346000,210000,Ryan Bahri,Rajkot,Hindi
+ASH-L-00163,ASH-A-00163,2026-07-11,1700000,24,premises expansion,85000000,1085000,45053000,19035000,receivables,3113000,225000,William Date,Coimbatore,English
+ASH-L-00164,ASH-A-00164,2026-06-08,3400000,24,working capital,85000000,8111000,15759000,8612000,receivables,4429000,0,Ishwar Kamdar,Mumbai,Gujarati
+ASH-L-00165,ASH-A-00165,2026-07-27,2700000,60,premises expansion,18000000,17000,6245000,2818000,commercial property,4147000,75000,Aahana Pillay,Tiruppur,Hindi
+ASH-L-00166,ASH-A-00166,2026-07-07,700000,36,premises expansion,4897000,237000,1700000,922000,commercial property,762000,0,Ishwar Gade,Hyderabad,Gujarati
+ASH-L-00167,ASH-A-00167,2026-07-13,200000,36,inventory build-up,4500000,319000,2619000,1048000,commercial property,202000,395000,Hritik Bal,Ludhiana,English
+ASH-L-00168,ASH-A-00168,2026-06-17,12750000,48,machinery purchase,115926000,5105000,26020000,13904000,receivables,10187000,0,Keya Ranganathan,Mumbai,Tamil
+ASH-L-00169,ASH-A-00169,2026-07-01,350000,48,inventory build-up,18000000,421000,6636000,3118000,commercial property,427000,65000,Faqid Kibe,Tiruppur,Hindi
+ASH-L-00170,ASH-A-00170,2026-06-23,2500000,48,debt refinancing,42000000,129000,12082000,8254000,receivables,2744000,0,Charvi Dara,Indore,Gujarati
+ASH-L-00171,ASH-A-00171,2026-06-14,200000,36,machinery purchase,9000000,708000,3397000,2135000,plant and machinery,138000,0,Idika Walia,Rajkot,Urdu
+ASH-L-00172,ASH-A-00172,2026-06-06,450000,48,debt refinancing,5879000,80000,2255000,1057000,receivables,527000,0,Kamala Biswas,Coimbatore,Hindi
+ASH-L-00173,ASH-A-00173,2026-07-13,200000,60,inventory build-up,1200000,36000,247000,233000,none,0,0,Advik Salvi,Tiruppur,Hindi
+ASH-L-00174,ASH-A-00174,2026-07-14,200000,36,machinery purchase,4792000,351000,2166000,873000,receivables,104000,0,Hitesh Sant,Indore,English
+ASH-L-00175,ASH-A-00175,2026-06-11,1800000,72,debt refinancing,18946000,594000,4808000,2106000,none,0,0,Tripti Dua,Coimbatore,Marathi
+ASH-L-00176,ASH-A-00176,2026-06-05,200000,60,debt refinancing,1273000,135000,202000,139000,none,0,0,Patrick Vig,Ludhiana,Hindi
+ASH-L-00177,ASH-A-00177,2026-07-07,350000,36,inventory build-up,19152000,1837000,5265000,2387000,commercial property,581000,0,Veda Shroff,Surat,Gujarati
+ASH-L-00178,ASH-A-00178,2026-06-07,4200000,36,debt refinancing,57242000,316000,12946000,6441000,receivables,4415000,190000,Amrita Naidu,Bengaluru,English
+ASH-L-00179,ASH-A-00179,2026-07-21,700000,60,machinery purchase,18000000,1262000,4231000,2019000,commercial property,982000,85000,Gabriel Mallick,Pune,English
+ASH-L-00180,ASH-A-00180,2026-06-05,200000,36,working capital,1200000,48000,298000,160000,inventory,340000,0,Yagnesh Shetty,Bengaluru,Marathi
+ASH-L-00181,ASH-A-00181,2026-07-24,3400000,72,machinery purchase,90150000,6145000,30884000,15121000,inventory,3086000,285000,Gayathri Balakrishnan,Coimbatore,Tamil
+ASH-L-00182,ASH-A-00182,2026-08-01,200000,48,premises expansion,1200000,27000,482000,222000,commercial property,191000,0,Ekta Gopal,Ludhiana,Gujarati
+ASH-L-00183,ASH-A-00183,2026-06-17,200000,24,debt refinancing,1200000,89000,614000,248000,receivables,136000,0,Simon Pant,Hyderabad,Telugu
+ASH-L-00184,ASH-A-00184,2026-07-13,200000,48,machinery purchase,1297000,117000,186000,150000,inventory,174000,0,Harini Mammen,Surat,Telugu
+ASH-L-00185,ASH-A-00185,2026-06-29,450000,48,working capital,4500000,138000,1342000,736000,plant and machinery,447000,115000,Advaith Varughese,Bengaluru,Tamil
+ASH-L-00186,ASH-A-00186,2026-07-28,1350000,48,working capital,9000000,648000,2124000,1624000,receivables,969000,110000,Frederick Khurana,Rajkot,Telugu
+ASH-L-00187,ASH-A-00187,2026-07-22,350000,36,machinery purchase,9000000,121000,1431000,950000,none,0,0,Vrinda Khosla,Bengaluru,Hindi
+ASH-L-00188,ASH-A-00188,2026-06-26,2500000,36,premises expansion,52216000,2396000,9503000,4749000,inventory,1336000,0,Vritti Sem,Bengaluru,Tamil
+ASH-L-00189,ASH-A-00189,2026-06-02,900000,36,premises expansion,9000000,439000,2341000,1500000,inventory,729000,165000,Girik Menon,Indore,Marathi
+ASH-L-00190,ASH-A-00190,2026-06-20,12750000,24,machinery purchase,85000000,1347000,23104000,12006000,receivables,26888000,250000,Nidhi Kohli,Indore,Gujarati
+ASH-L-00191,ASH-A-00191,2026-06-07,700000,48,working capital,4500000,30000,738000,643000,commercial property,570000,0,Jyoti Solanki,Tiruppur,Marathi
+ASH-L-00192,ASH-A-00192,2026-07-06,700000,24,inventory build-up,18000000,1487000,8555000,3731000,receivables,992000,0,Pavani Narayanan,Tiruppur,English
+ASH-L-00193,ASH-A-00193,2026-07-11,1800000,24,premises expansion,18000000,1486000,5021000,2422000,none,0,0,Sudiksha Madan,Mumbai,Tamil
+ASH-L-00194,ASH-A-00194,2026-07-25,8500000,36,premises expansion,108137000,1650000,27474000,19083000,commercial property,8501000,0,Zayan Kashyap,Kanpur,Tamil
+ASH-L-00195,ASH-A-00195,2026-06-04,900000,72,premises expansion,9000000,153000,2746000,1272000,none,0,0,Reyansh Mutti,Surat,Gujarati
+ASH-L-00196,ASH-A-00196,2026-06-03,450000,24,working capital,4500000,3000,1208000,1075000,plant and machinery,465000,0,Qasim Handa,Pune,English
+ASH-L-00197,ASH-A-00197,2026-06-10,200000,72,debt refinancing,9000000,821000,2514000,2014000,plant and machinery,319000,0,Veda Malhotra,Pune,Telugu
+ASH-L-00198,ASH-A-00198,2026-06-06,900000,36,inventory build-up,9000000,557000,2272000,913000,receivables,1064000,0,Harish Hari,Coimbatore,Gujarati
+ASH-L-00199,ASH-A-00199,2026-07-08,200000,48,premises expansion,4500000,353000,787000,531000,receivables,283000,0,Utkarsh Patel,Malegaon,Telugu
+ASH-L-00200,ASH-A-00200,2026-07-27,200000,36,working capital,1200000,89000,346000,210000,inventory,141000,0,Chasmum Atwal,Kanpur,Hindi
+ASH-L-00201,ASH-A-00201,2026-06-03,1800000,48,machinery purchase,18000000,1463000,3511000,2081000,receivables,2300000,0,Anusha Bath,Indore,Urdu
+ASH-L-00202,ASH-A-00202,2026-06-30,5100000,48,premises expansion,85000000,3896000,13902000,13775000,none,0,0,Brinda Date,Pune,Marathi
+ASH-L-00203,ASH-A-00203,2026-06-18,700000,72,inventory build-up,4500000,157000,2038000,991000,receivables,577000,225000,Harshil Arora,Bengaluru,Telugu
+ASH-L-00204,ASH-A-00204,2026-06-20,200000,36,working capital,1200000,69000,450000,190000,plant and machinery,161000,0,Upasna Srinivas,Rajkot,Urdu
+ASH-L-00205,ASH-A-00205,2026-06-03,6300000,48,machinery purchase,42000000,1187000,25231000,10188000,plant and machinery,7171000,0,Harini Gour,Mumbai,Hindi
+ASH-L-00206,ASH-A-00206,2026-06-21,700000,36,machinery purchase,4500000,404000,919000,537000,inventory,316000,0,Zayyan Sridhar,Bengaluru,Tamil
+ASH-L-00207,ASH-A-00207,2026-07-02,900000,24,premises expansion,9000000,143000,1993000,1104000,inventory,295000,0,Dhruv Rattan,Rajkot,Marathi
+ASH-L-00208,ASH-A-00208,2026-07-03,1700000,36,debt refinancing,85000000,5779000,40171000,20483000,receivables,3230000,305000,Ethan Bera,Hyderabad,English
+ASH-L-00209,ASH-A-00209,2026-07-23,200000,72,inventory build-up,1270000,111000,491000,208000,receivables,279000,225000,Manthan Modi,Rajkot,Telugu
+ASH-L-00210,ASH-A-00210,2026-06-14,200000,36,premises expansion,1200000,113000,456000,257000,plant and machinery,194000,380000,Yuvraj Dani,Rajkot,Hindi
+ASH-L-00211,ASH-A-00211,2026-06-13,200000,24,working capital,1200000,80000,621000,273000,none,0,0,Upkaar Virk,Indore,Hindi
+ASH-L-00212,ASH-A-00212,2026-07-02,200000,24,machinery purchase,1200000,46000,167000,148000,receivables,328000,0,Shravya Savant,Tiruppur,Urdu
+ASH-L-00213,ASH-A-00213,2026-07-04,700000,24,inventory build-up,4500000,400000,1406000,711000,commercial property,1127000,0,Pushti Mody,Ludhiana,Urdu
+ASH-L-00214,ASH-A-00214,2026-07-30,200000,24,working capital,1452000,62000,460000,278000,plant and machinery,319000,0,Hardik Johal,Kanpur,Telugu
+ASH-L-00215,ASH-A-00215,2026-07-23,8500000,60,working capital,85000000,4230000,19101000,10095000,plant and machinery,9091000,310000,Aishani Bumb,Indore,Hindi
+ASH-L-00216,ASH-A-00216,2026-07-20,350000,36,debt refinancing,18728000,988000,5573000,2669000,plant and machinery,647000,0,Wriddhish Ghose,Hyderabad,English
+ASH-L-00217,ASH-A-00217,2026-07-13,5100000,36,working capital,85000000,4100000,23189000,10258000,inventory,2225000,0,Naksh Agate,Ludhiana,Gujarati
+ASH-L-00218,ASH-A-00218,2026-06-28,200000,72,machinery purchase,1284000,47000,220000,132000,receivables,330000,0,Shravya Singhal,Pune,Gujarati
+ASH-L-00219,ASH-A-00219,2026-07-24,1700000,24,inventory build-up,85000000,58000,16662000,12518000,commercial property,2341000,190000,Bachittar Kata,Ludhiana,Marathi
+ASH-L-00220,ASH-A-00220,2026-06-22,700000,48,machinery purchase,4500000,282000,1810000,838000,receivables,856000,0,Barkha Setty,Hyderabad,Gujarati
+ASH-L-00221,ASH-A-00221,2026-07-27,200000,48,working capital,1200000,109000,381000,266000,receivables,227000,0,Vivaan Lalla,Pune,Tamil
+ASH-L-00222,ASH-A-00222,2026-07-11,900000,24,machinery purchase,9000000,301000,1894000,1832000,inventory,336000,0,Pavani Contractor,Rajkot,Urdu
+ASH-L-00223,ASH-A-00223,2026-07-01,200000,60,debt refinancing,6194000,434000,1055000,972000,inventory,265000,155000,Manthan Lata,Indore,Gujarati
+ASH-L-00224,ASH-A-00224,2026-07-21,350000,60,debt refinancing,10549000,1161000,2364000,1775000,inventory,620000,0,Ekbal Bhasin,Coimbatore,English
+ASH-L-00225,ASH-A-00225,2026-06-11,450000,60,machinery purchase,4500000,30000,1294000,709000,receivables,136000,0,Damyanti Mani,Hyderabad,Telugu
+ASH-L-00226,ASH-A-00226,2026-07-11,200000,48,inventory build-up,1257000,11000,257000,229000,inventory,297000,0,Jeet Sidhu,Ludhiana,Urdu
+ASH-L-00227,ASH-A-00227,2026-07-15,2500000,24,inventory build-up,42000000,3159000,13944000,9501000,none,0,0,Neha Magar,Indore,English
+ASH-L-00228,ASH-A-00228,2026-06-29,200000,24,debt refinancing,9000000,340000,2464000,1144000,inventory,151000,0,Raksha Buch,Indore,Telugu
+ASH-L-00229,ASH-A-00229,2026-06-14,4200000,60,inventory build-up,42000000,167000,18874000,8388000,plant and machinery,5445000,0,Rachana Naidu,Pune,Gujarati
+ASH-L-00230,ASH-A-00230,2026-06-18,200000,60,machinery purchase,1200000,51000,268000,147000,plant and machinery,131000,0,Atharv Chand,Mumbai,Tamil
+ASH-L-00231,ASH-A-00231,2026-07-09,450000,60,inventory build-up,4500000,7000,1083000,600000,commercial property,293000,0,Ansh Luthra,Ludhiana,Hindi
+ASH-L-00232,ASH-A-00232,2026-06-04,450000,48,inventory build-up,4500000,3000,1391000,677000,commercial property,158000,0,Parth Singhal,Surat,Hindi
+ASH-L-00233,ASH-A-00233,2026-06-12,1700000,36,premises expansion,90873000,545000,29064000,14717000,plant and machinery,1742000,0,Arunima Golla,Indore,Marathi
+ASH-L-00234,ASH-A-00234,2026-07-15,450000,48,debt refinancing,4500000,200000,1095000,604000,plant and machinery,606000,380000,Vyanjana Chand,Tiruppur,English
+ASH-L-00235,ASH-A-00235,2026-06-06,550000,24,debt refinancing,9000000,541000,2913000,2068000,plant and machinery,330000,0,Ijaya Rege,Ludhiana,English
+ASH-L-00236,ASH-A-00236,2026-06-05,2700000,24,debt refinancing,18000000,352000,2010000,1951000,receivables,5901000,35000,Ekani Cheema,Malegaon,Marathi
+ASH-L-00237,ASH-A-00237,2026-06-02,250000,48,inventory build-up,4500000,88000,1145000,476000,inventory,357000,0,Forum Sabharwal,Malegaon,Telugu
+ASH-L-00238,ASH-A-00238,2026-06-06,3400000,24,premises expansion,85000000,1222000,35471000,15868000,receivables,5805000,0,Bhavya Rattan,Indore,Urdu
+ASH-L-00239,ASH-A-00239,2026-06-29,2500000,72,inventory build-up,42000000,4337000,11756000,5296000,none,0,0,Suhani Chakrabarti,Kanpur,English
+ASH-L-00240,ASH-A-00240,2026-06-26,250000,72,premises expansion,4500000,313000,1746000,860000,inventory,419000,230000,Zayyan Naik,Surat,Tamil
+ASH-L-00241,ASH-A-00241,2026-06-25,700000,36,debt refinancing,18000000,473000,4497000,1937000,receivables,428000,0,Netra Varkey,Kanpur,Marathi
+ASH-L-00242,ASH-A-00242,2026-06-26,200000,60,machinery purchase,12099000,661000,4427000,1781000,plant and machinery,329000,0,Turvi Sachdev,Pune,Urdu
+ASH-L-00243,ASH-A-00243,2026-07-26,1800000,48,inventory build-up,18000000,1844000,8461000,3887000,receivables,2466000,390000,Raghav Vasa,Hyderabad,Urdu
+ASH-L-00244,ASH-A-00244,2026-07-29,1350000,72,working capital,9000000,314000,2356000,1475000,plant and machinery,990000,315000,Wishi Sathe,Ludhiana,Urdu
+ASH-L-00245,ASH-A-00245,2026-07-03,200000,48,premises expansion,1200000,38000,352000,164000,plant and machinery,336000,0,Samar Loke,Coimbatore,English
+ASH-L-00246,ASH-A-00246,2026-06-09,3400000,24,premises expansion,85000000,2294000,19176000,14328000,plant and machinery,6455000,0,Bhavna Sarma,Mumbai,Urdu
+ASH-L-00247,ASH-A-00247,2026-06-18,200000,72,inventory build-up,1601000,130000,216000,198000,inventory,279000,0,Jairaj Balakrishnan,Tiruppur,Urdu
+ASH-L-00248,ASH-A-00248,2026-06-30,200000,60,machinery purchase,1200000,56000,502000,254000,inventory,311000,0,Nathan Mukhopadhyay,Coimbatore,Tamil
+ASH-L-00249,ASH-A-00249,2026-07-28,350000,24,premises expansion,9000000,960000,3789000,1908000,none,0,0,Nikita Chander,Indore,English
+ASH-L-00250,ASH-A-00250,2026-06-08,1350000,60,inventory build-up,9000000,729000,1534000,931000,receivables,580000,0,Ishaan Shenoy,Tiruppur,Telugu
+ASH-L-00251,ASH-A-00251,2026-07-13,1350000,72,inventory build-up,9000000,1000,1845000,1025000,plant and machinery,1168000,0,Mitesh Tara,Tiruppur,English
+ASH-L-00252,ASH-A-00252,2026-07-02,12750000,36,machinery purchase,90610000,3143000,31169000,15805000,inventory,12848000,0,Yashodhara Mahajan,Tiruppur,Tamil
+ASH-L-00253,ASH-A-00253,2026-07-04,850000,72,working capital,54008000,2391000,11908000,5941000,receivables,423000,0,Vasudha Sodhi,Pune,Marathi
+ASH-L-00254,ASH-A-00254,2026-06-18,200000,48,working capital,1280000,35000,451000,266000,plant and machinery,205000,0,Tanmayi Dhillon,Tiruppur,English
+ASH-L-00255,ASH-A-00255,2026-06-29,4200000,24,debt refinancing,42000000,3240000,5584000,5255000,inventory,3875000,0,Rayaan Trivedi,Hyderabad,English
+ASH-L-00256,ASH-A-00256,2026-07-02,250000,24,premises expansion,4500000,222000,1061000,864000,commercial property,378000,0,Ekaraj Majumdar,Indore,Telugu
+ASH-L-00257,ASH-A-00257,2026-06-21,2700000,24,premises expansion,18920000,469000,6623000,3559000,inventory,1398000,240000,Harini Tripathi,Bengaluru,Urdu
+ASH-L-00258,ASH-A-00258,2026-06-06,4200000,24,inventory build-up,42000000,3811000,14459000,8386000,commercial property,7377000,95000,Aarnav Mandal,Malegaon,Gujarati
+ASH-L-00259,ASH-A-00259,2026-07-30,200000,36,inventory build-up,1200000,11000,196000,130000,commercial property,278000,250000,Vrishti Dixit,Malegaon,Marathi
+ASH-L-00260,ASH-A-00260,2026-07-20,1700000,24,premises expansion,85000000,1701000,33340000,15604000,receivables,2494000,240000,Veda Pai,Rajkot,Marathi
+ASH-L-00261,ASH-A-00261,2026-07-01,1800000,36,premises expansion,18000000,196000,5547000,3168000,receivables,2829000,0,Krishna Shah,Bengaluru,English
+ASH-L-00262,ASH-A-00262,2026-07-04,1350000,36,inventory build-up,9000000,696000,2092000,1812000,receivables,421000,0,Ranbir Khare,Pune,Hindi
+ASH-L-00263,ASH-A-00263,2026-07-29,200000,48,inventory build-up,1200000,20000,164000,144000,plant and machinery,304000,0,Vivaan Roy,Tiruppur,Marathi
+ASH-L-00264,ASH-A-00264,2026-07-24,12750000,36,premises expansion,85000000,1512000,27760000,13025000,plant and machinery,16908000,0,Eesha Solanki,Coimbatore,Marathi
+ASH-L-00265,ASH-A-00265,2026-07-21,200000,60,debt refinancing,4500000,324000,1716000,726000,inventory,306000,0,Libni Doshi,Coimbatore,Urdu
+ASH-L-00266,ASH-A-00266,2026-07-21,3400000,24,debt refinancing,85000000,7752000,44093000,18316000,commercial property,6690000,0,Balhaar Date,Malegaon,English
+ASH-L-00267,ASH-A-00267,2026-07-14,200000,60,debt refinancing,4500000,325000,1214000,1040000,inventory,166000,90000,Harish Sarraf,Pune,Telugu
+ASH-L-00268,ASH-A-00268,2026-07-20,200000,48,premises expansion,4500000,53000,1150000,468000,none,0,0,Tanmayi Aurora,Indore,Tamil
+ASH-L-00269,ASH-A-00269,2026-07-22,550000,48,working capital,9000000,108000,3903000,2059000,inventory,588000,360000,Nimrat Dubey,Ludhiana,Gujarati
+ASH-L-00270,ASH-A-00270,2026-06-06,250000,36,debt refinancing,4500000,270000,985000,605000,plant and machinery,196000,0,Upasna Lanka,Kanpur,Urdu
+ASH-L-00271,ASH-A-00271,2026-07-04,1700000,48,machinery purchase,42000000,988000,11253000,8908000,plant and machinery,2415000,0,Mitali Buch,Coimbatore,Tamil
+ASH-L-00272,ASH-A-00272,2026-07-19,2500000,24,debt refinancing,42000000,908000,19074000,10160000,plant and machinery,1207000,0,Lajita Nadig,Surat,Gujarati
+ASH-L-00273,ASH-A-00273,2026-06-17,850000,36,premises expansion,45116000,2084000,8981000,8787000,receivables,984000,0,Balendra Biswas,Pune,Telugu
+ASH-L-00274,ASH-A-00274,2026-07-13,4200000,48,debt refinancing,42000000,804000,6377000,4285000,inventory,5929000,0,Bhavna Karan,Hyderabad,Telugu
+ASH-L-00275,ASH-A-00275,2026-07-21,850000,48,machinery purchase,44912000,252000,5543000,5365000,none,0,0,Radha Chaudhari,Surat,Gujarati
+ASH-L-00276,ASH-A-00276,2026-07-15,200000,24,machinery purchase,9000000,36000,2641000,1084000,inventory,457000,0,Sachi Ganesan,Surat,Urdu
+ASH-L-00277,ASH-A-00277,2026-07-30,700000,24,inventory build-up,4500000,280000,1148000,926000,none,0,0,Ayush Batra,Bengaluru,Marathi
+ASH-L-00278,ASH-A-00278,2026-06-15,200000,60,debt refinancing,1200000,31000,332000,133000,inventory,213000,0,Daksh Memon,Surat,English
+ASH-L-00279,ASH-A-00279,2026-07-06,200000,60,premises expansion,1200000,111000,344000,191000,inventory,254000,0,Kavya Sankar,Pune,Urdu
+ASH-L-00280,ASH-A-00280,2026-07-20,200000,48,machinery purchase,1200000,121000,404000,168000,none,0,0,Yash Wali,Coimbatore,Urdu
+ASH-L-00281,ASH-A-00281,2026-07-08,1700000,60,machinery purchase,85000000,4210000,21432000,10480000,plant and machinery,1007000,250000,Pranit Garde,Bengaluru,English
+ASH-L-00282,ASH-A-00282,2026-06-02,1350000,24,inventory build-up,9000000,1017000,2466000,1082000,commercial property,2424000,0,Farhan Raja,Indore,Urdu
+ASH-L-00283,ASH-A-00283,2026-06-27,350000,60,inventory build-up,9000000,138000,2535000,2169000,plant and machinery,514000,90000,Widisha Dhar,Kanpur,English
+ASH-L-00284,ASH-A-00284,2026-06-07,1350000,24,premises expansion,9000000,584000,1837000,967000,plant and machinery,690000,0,Triya Kumar,Mumbai,English
+ASH-L-00285,ASH-A-00285,2026-07-06,900000,72,working capital,9000000,445000,2838000,1345000,none,0,240000,Aadhya Andra,Pune,Gujarati
+ASH-L-00286,ASH-A-00286,2026-06-21,200000,24,premises expansion,1200000,77000,293000,222000,plant and machinery,301000,0,Bhavna Dugar,Hyderabad,Urdu
+ASH-L-00287,ASH-A-00287,2026-07-12,200000,48,debt refinancing,10823000,587000,1464000,1417000,plant and machinery,233000,0,Riya Pai,Malegaon,Telugu
+ASH-L-00288,ASH-A-00288,2026-07-25,1700000,48,debt refinancing,42000000,220000,10498000,6218000,commercial property,2345000,0,Panini Krishna,Kanpur,Marathi
+ASH-L-00289,ASH-A-00289,2026-06-02,350000,60,premises expansion,18000000,114000,3795000,2519000,plant and machinery,440000,105000,Chasmum Issac,Bengaluru,Hindi
+ASH-L-00290,ASH-A-00290,2026-06-12,1700000,60,debt refinancing,42000000,3842000,12792000,7691000,inventory,1052000,0,Vasudha Chhabra,Indore,Telugu
+ASH-L-00291,ASH-A-00291,2026-06-07,700000,60,working capital,4500000,298000,789000,747000,commercial property,473000,0,Lakshmi Parmer,Tiruppur,Hindi
+ASH-L-00292,ASH-A-00292,2026-06-23,2500000,36,machinery purchase,42000000,3706000,6803000,6359000,receivables,3448000,0,Chakrika Bains,Tiruppur,English
+ASH-L-00293,ASH-A-00293,2026-06-24,1100000,36,inventory build-up,18000000,816000,8287000,3854000,plant and machinery,1012000,0,Anvi Anand,Hyderabad,Marathi
+ASH-L-00294,ASH-A-00294,2026-06-09,1800000,36,debt refinancing,18000000,142000,8416000,4476000,plant and machinery,1740000,0,Watika Mangat,Hyderabad,Telugu
+ASH-L-00295,ASH-A-00295,2026-07-02,12750000,36,working capital,85000000,1337000,9890000,9354000,plant and machinery,11185000,0,Indira Kanda,Tiruppur,English
+ASH-L-00296,ASH-A-00296,2026-07-07,1350000,48,inventory build-up,9000000,283000,2540000,1346000,receivables,2114000,0,Zashil Devan,Malegaon,Marathi
+ASH-L-00297,ASH-A-00297,2026-07-27,200000,24,debt refinancing,1591000,52000,544000,284000,receivables,116000,0,Balveer More,Kanpur,Hindi
+ASH-L-00298,ASH-A-00298,2026-06-23,350000,24,debt refinancing,9000000,153000,3231000,1408000,plant and machinery,256000,0,Bahadurjit Patla,Kanpur,Tamil
+ASH-L-00299,ASH-A-00299,2026-07-16,5100000,36,inventory build-up,104659000,8741000,49249000,19833000,receivables,4984000,0,Gautam Merchant,Coimbatore,Urdu
+ASH-L-00300,ASH-A-00300,2026-07-05,700000,60,inventory build-up,18000000,672000,5592000,3329000,commercial property,580000,0,Ojasvi Gill,Mumbai,Gujarati
+ASH-L-00301,ASH-A-00301,2026-07-28,4200000,48,inventory build-up,43758000,1270000,17531000,8289000,commercial property,2371000,0,Kevin Zacharia,Malegaon,Tamil
+ASH-L-00302,ASH-A-00302,2026-06-05,250000,60,working capital,4500000,77000,1157000,804000,none,0,340000,Yachana Mahajan,Indore,Urdu
+ASH-L-00303,ASH-A-00303,2026-07-23,12750000,24,machinery purchase,96004000,4403000,20710000,17449000,none,0,0,Aarini Subramaniam,Ludhiana,English
+ASH-L-00304,ASH-A-00304,2026-06-29,700000,60,machinery purchase,4500000,228000,1011000,752000,plant and machinery,439000,0,Hamsini Contractor,Malegaon,Gujarati
+ASH-L-00305,ASH-A-00305,2026-06-13,2700000,48,premises expansion,18000000,111000,4263000,3136000,inventory,4584000,0,Faqid Dhaliwal,Mumbai,Tamil
+ASH-L-00306,ASH-A-00306,2026-07-30,700000,60,machinery purchase,18000000,262000,4813000,3254000,none,0,130000,Mekhala Pau,Kanpur,English
+ASH-L-00307,ASH-A-00307,2026-06-27,350000,60,premises expansion,18000000,380000,6521000,4301000,plant and machinery,362000,0,Megha Atwal,Malegaon,Hindi
+ASH-L-00308,ASH-A-00308,2026-07-28,200000,24,inventory build-up,1200000,83000,421000,234000,plant and machinery,197000,0,Jatin Sha,Pune,Telugu
+ASH-L-00309,ASH-A-00309,2026-06-24,1100000,60,working capital,18000000,1191000,7719000,3852000,commercial property,558000,145000,Adweta Raj,Mumbai,Telugu
+ASH-L-00310,ASH-A-00310,2026-06-19,200000,24,working capital,1200000,4000,395000,164000,commercial property,208000,0,Hritik Kaur,Coimbatore,Urdu
+ASH-L-00311,ASH-A-00311,2026-07-11,900000,36,premises expansion,9713000,756000,1676000,1227000,inventory,2022000,0,Aryan Narang,Kanpur,Urdu
+ASH-L-00312,ASH-A-00312,2026-06-04,3400000,72,machinery purchase,114328000,7103000,40100000,20669000,inventory,1118000,355000,Dev Shetty,Malegaon,Gujarati
+ASH-L-00313,ASH-A-00313,2026-06-14,200000,36,working capital,1200000,96000,197000,178000,commercial property,218000,0,Nilima Dada,Tiruppur,Tamil
+ASH-L-00314,ASH-A-00314,2026-07-02,200000,24,machinery purchase,4500000,42000,1679000,789000,commercial property,243000,0,Chakradev Barad,Tiruppur,Telugu
+ASH-L-00315,ASH-A-00315,2026-07-08,200000,72,inventory build-up,9000000,447000,3615000,1673000,commercial property,290000,0,Waida D’Alia,Ludhiana,Telugu
+ASH-L-00316,ASH-A-00316,2026-07-27,1700000,24,inventory build-up,42000000,3904000,5668000,4221000,receivables,583000,155000,Wahab Yogi,Surat,Marathi
+ASH-L-00317,ASH-A-00317,2026-07-26,4200000,48,working capital,42000000,1924000,12278000,7061000,commercial property,1530000,0,Lipika Setty,Surat,Hindi
+ASH-L-00318,ASH-A-00318,2026-06-10,200000,24,debt refinancing,1200000,99000,527000,211000,inventory,316000,0,Oni Dubey,Malegaon,Tamil
+ASH-L-00319,ASH-A-00319,2026-06-06,2700000,24,working capital,19156000,962000,5903000,2679000,inventory,4001000,0,Hardik Suri,Mumbai,Tamil
+ASH-L-00320,ASH-A-00320,2026-07-26,700000,60,machinery purchase,19608000,189000,3890000,2471000,receivables,229000,0,Ati Bali,Hyderabad,Urdu
+ASH-L-00321,ASH-A-00321,2026-06-16,200000,60,premises expansion,1200000,26000,516000,284000,none,0,0,Teerth Sawhney,Coimbatore,Marathi
+ASH-L-00322,ASH-A-00322,2026-06-29,200000,72,inventory build-up,1297000,68000,251000,166000,commercial property,145000,0,Warinder Patil,Indore,Urdu
+ASH-L-00323,ASH-A-00323,2026-07-11,200000,36,working capital,1200000,40000,185000,126000,none,0,0,Jhalak Parmer,Surat,English
+ASH-L-00324,ASH-A-00324,2026-06-19,2500000,48,machinery purchase,42000000,1470000,11540000,9619000,plant and machinery,946000,0,Mitali Majumdar,Surat,Urdu
+ASH-L-00325,ASH-A-00325,2026-07-31,1700000,60,inventory build-up,85000000,6165000,28108000,14511000,inventory,1336000,0,Jason Sha,Ludhiana,Hindi
+ASH-L-00326,ASH-A-00326,2026-06-29,200000,60,premises expansion,1200000,1000,433000,254000,plant and machinery,324000,0,Simon Bail,Pune,Gujarati
+ASH-L-00327,ASH-A-00327,2026-06-02,900000,48,premises expansion,9545000,413000,1631000,903000,inventory,1392000,0,Gauri Kohli,Surat,Urdu
+ASH-L-00328,ASH-A-00328,2026-07-19,700000,24,premises expansion,4500000,345000,2540000,1069000,receivables,1239000,0,Samesh Biswas,Malegaon,Telugu
+ASH-L-00329,ASH-A-00329,2026-07-15,200000,48,machinery purchase,1200000,3000,334000,295000,plant and machinery,273000,0,Tarak Kaul,Coimbatore,Urdu
+ASH-L-00330,ASH-A-00330,2026-07-28,850000,36,debt refinancing,42000000,1252000,8578000,5052000,inventory,1062000,120000,Manbir Agate,Ludhiana,Tamil
+ASH-L-00331,ASH-A-00331,2026-07-18,900000,24,inventory build-up,9000000,563000,4257000,2128000,plant and machinery,895000,0,Maanav De,Coimbatore,Urdu
+ASH-L-00332,ASH-A-00332,2026-07-09,4200000,72,debt refinancing,42000000,3532000,6337000,4664000,inventory,4041000,0,Owen Choudhary,Pune,Hindi
+ASH-L-00333,ASH-A-00333,2026-07-11,850000,60,debt refinancing,42000000,1109000,7918000,7331000,inventory,648000,0,Karan Aurora,Hyderabad,Marathi
+ASH-L-00334,ASH-A-00334,2026-07-01,2700000,36,premises expansion,19164000,1194000,7328000,3745000,commercial property,3919000,165000,Wazir Naik,Bengaluru,Urdu
+ASH-L-00335,ASH-A-00335,2026-07-30,550000,36,premises expansion,9000000,560000,2750000,1621000,receivables,718000,0,Owen Lanka,Ludhiana,Urdu
+ASH-L-00336,ASH-A-00336,2026-06-13,900000,48,inventory build-up,9000000,625000,1905000,1080000,receivables,1619000,0,Jonathan Sama,Malegaon,Urdu
+ASH-L-00337,ASH-A-00337,2026-07-04,6300000,24,premises expansion,42000000,704000,11878000,7853000,receivables,14607000,0,Devansh Soni,Malegaon,Telugu
+ASH-L-00338,ASH-A-00338,2026-06-03,8500000,24,working capital,85000000,3247000,33739000,15157000,inventory,10604000,0,Janaki Varghese,Tiruppur,Telugu
+ASH-L-00339,ASH-A-00339,2026-06-23,700000,36,inventory build-up,4500000,446000,1780000,841000,receivables,779000,0,Siya Thakur,Surat,Urdu
+ASH-L-00340,ASH-A-00340,2026-07-01,200000,72,working capital,1200000,81000,579000,233000,commercial property,291000,0,Caleb Verma,Indore,Marathi
+ASH-L-00341,ASH-A-00341,2026-06-22,5100000,60,inventory build-up,85000000,5465000,25476000,14564000,commercial property,7139000,0,Tara Balasubramanian,Rajkot,Urdu
+ASH-L-00342,ASH-A-00342,2026-06-10,850000,48,premises expansion,42000000,1495000,11740000,5581000,plant and machinery,679000,0,Varenya Ratti,Hyderabad,Gujarati
+ASH-L-00343,ASH-A-00343,2026-07-15,1800000,36,debt refinancing,20599000,2242000,5803000,3528000,inventory,2324000,0,Hritik Swaminathan,Malegaon,Marathi
+ASH-L-00344,ASH-A-00344,2026-06-25,350000,24,debt refinancing,18000000,1116000,8472000,4368000,plant and machinery,617000,0,Ethan Buch,Kanpur,Urdu
+ASH-L-00345,ASH-A-00345,2026-07-15,900000,24,machinery purchase,12499000,118000,2300000,1837000,plant and machinery,907000,30000,Manbir Bhatti,Tiruppur,Gujarati
+ASH-L-00346,ASH-A-00346,2026-07-17,850000,72,debt refinancing,42000000,2398000,6321000,5684000,receivables,1467000,335000,Anvi Nair,Bengaluru,Gujarati
+ASH-L-00347,ASH-A-00347,2026-06-04,200000,24,working capital,1307000,103000,264000,142000,commercial property,359000,0,Chaitaly Setty,Hyderabad,Tamil
+ASH-L-00348,ASH-A-00348,2026-07-21,200000,60,inventory build-up,1200000,54000,597000,258000,none,0,0,Hardik Contractor,Malegaon,Gujarati
+ASH-L-00349,ASH-A-00349,2026-06-27,200000,24,working capital,1200000,50000,422000,271000,commercial property,169000,0,Qushi Seth,Kanpur,English

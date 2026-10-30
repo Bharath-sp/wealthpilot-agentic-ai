@@ -1,0 +1,9 @@
+grade,min_dscr,min_bureau_score,spread_bps,indicative_rate_pct,max_tenor_months,collateral_cover_pct,auto_approve_allowed
+A1,2.0,750,150,11.0,84,0,True
+A2,1.75,700,200,11.5,72,25,True
+B1,1.5,650,275,12.25,60,50,True
+B2,1.35,600,350,13.0,60,75,True
+C1,1.25,550,450,14.0,48,100,True
+C2,1.15,500,575,15.25,36,125,False
+D1,1.0,450,725,16.75,24,150,False
+D2,0.0,0,900,18.5,12,150,False

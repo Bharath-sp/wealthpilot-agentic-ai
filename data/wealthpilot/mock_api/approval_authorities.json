@@ -1,0 +1,17 @@
+[
+  {
+    "authority": "Credit Officer",
+    "max_loan_inr": 1000000,
+    "named_signatory_required": false
+  },
+  {
+    "authority": "Credit Committee",
+    "max_loan_inr": 5000000,
+    "named_signatory_required": false
+  },
+  {
+    "authority": "Board Credit Committee",
+    "max_loan_inr": null,
+    "named_signatory_required": true
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "user_id": "ASH-U-001",
+    "name": "Aryan Maharaj",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-002",
+    "name": "Udant Dewan",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": false
+  },
+  {
+    "user_id": "ASH-U-003",
+    "name": "Gagan Sami",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-004",
+    "name": "Ayushman Chander",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-005",
+    "name": "Viraj Tiwari",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-006",
+    "name": "Rushil Saini",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-007",
+    "name": "Saumya Mall",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-008",
+    "name": "Nathaniel Sami",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": false
+  },
+  {
+    "user_id": "ASH-U-009",
+    "name": "Arunima Dugal",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": false
+  },
+  {
+    "user_id": "ASH-U-010",
+    "name": "Gayathri Chaudry",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-011",
+    "name": "Lajita Chatterjee",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-012",
+    "name": "Hemangini Lalla",
+    "authority": "Credit Officer",
+    "approval_limit_inr": 1000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-013",
+    "name": "Tripti Yadav",
+    "authority": "Credit Committee",
+    "approval_limit_inr": 5000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-014",
+    "name": "Kritika Brar",
+    "authority": "Credit Committee",
+    "approval_limit_inr": 5000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-015",
+    "name": "Janaki Handa",
+    "authority": "Credit Committee",
+    "approval_limit_inr": 5000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-016",
+    "name": "Chakradev Kari",
+    "authority": "Credit Committee",
+    "approval_limit_inr": 5000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-017",
+    "name": "Fariq Kaul",
+    "authority": "Credit Committee",
+    "approval_limit_inr": 5000000,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-018",
+    "name": "Lajita Mall",
+    "authority": "Credit Committee",
+    "approval_limit_inr": 5000000,
+    "active": false
+  },
+  {
+    "user_id": "ASH-U-019",
+    "name": "Janya Gaba",
+    "authority": "Board Credit Committee",
+    "approval_limit_inr": null,
+    "active": true
+  },
+  {
+    "user_id": "ASH-U-020",
+    "name": "Isha Kadakia",
+    "authority": "Board Credit Committee",
+    "approval_limit_inr": null,
+    "active": true
+  }
+]

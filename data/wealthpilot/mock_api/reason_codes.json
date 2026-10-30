@@ -1,0 +1,77 @@
+[
+  {
+    "reason_code": "APPROVED_STANDARD",
+    "meaning": "Meets every underwriting standard",
+    "is_decline_reason": false
+  },
+  {
+    "reason_code": "DSCR_BELOW_FLOOR",
+    "meaning": "Debt-service coverage ratio is below the sector floor",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "THIN_FILE",
+    "meaning": "Fewer than 24 months operating, or no active trade line",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "ADVERSE_BUREAU",
+    "meaning": "Bureau score below 450",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "PAST_DELINQUENCY",
+    "meaning": "A 90-day delinquency, or 500,000 rupees or more written off",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "DOC_MISMATCH",
+    "meaning": "Declared revenue differs from verified revenue by more than 10 percent",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "SECTOR_CAP",
+    "meaning": "The sector has reached its maximum share of the loan book",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "LEVERAGE_ABOVE_LIMIT",
+    "meaning": "Total debt after the loan exceeds 6.0 times EBITDA",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "LIQUIDITY_BELOW_FLOOR",
+    "meaning": "Current ratio is below 1.10",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "TENOR_ABOVE_LIMIT",
+    "meaning": "Requested tenor is longer than the grade or the sector allows",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "COLLATERAL_SHORTFALL",
+    "meaning": "Collateral is worth less than the cover the grade requires",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "FRAUD_HOLD",
+    "meaning": "Declared revenue differs from verified revenue by more than 25 percent",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "GRADE_REQUIRES_REVIEW",
+    "meaning": "Grade C2 or D1: never approved automatically",
+    "is_decline_reason": true
+  },
+  {
+    "reason_code": "INCOMPLETE_APPLICATION",
+    "meaning": "A figure needed to test a standard was not supplied",
+    "is_decline_reason": false
+  },
+  {
+    "reason_code": "WITHDRAWN_BY_APPLICANT",
+    "meaning": "The applicant withdrew the application",
+    "is_decline_reason": false
+  }
+]

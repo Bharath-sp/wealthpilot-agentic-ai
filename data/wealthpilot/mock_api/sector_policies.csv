@@ -1,0 +1,9 @@
+sector,dscr_floor,working_capital_cycle_days,max_exposure_pct,current_exposure_pct,at_sector_cap,max_tenor_months,seasonal_peak
+Textiles,1.3,90,15.0,13.2,False,60,August to October
+Food Processing,1.25,45,12.0,9.8,False,60,October to January
+Light Engineering,1.35,75,14.0,11.5,False,72,January to March
+Logistics,1.4,30,10.0,10.0,True,48,September to December
+Retail Trade,1.25,40,12.0,8.9,False,36,October to December
+Auto Components,1.35,80,13.0,12.1,False,60,July to September
+Pharma Packaging,1.3,60,8.0,6.4,False,60,no marked season
+IT Services,1.25,55,16.0,11.3,False,48,no marked season

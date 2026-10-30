@@ -1,0 +1,68 @@
+[
+  {
+    "limit": "min_dscr",
+    "value": 1.25,
+    "unit": "ratio",
+    "description": "Minimum DSCR, unless the sector floor is higher"
+  },
+  {
+    "limit": "min_months_operating",
+    "value": 24,
+    "unit": "months",
+    "description": "Minimum operating history"
+  },
+  {
+    "limit": "max_leverage",
+    "value": 6.0,
+    "unit": "x EBITDA",
+    "description": "Existing debt plus the proposed loan, over EBITDA"
+  },
+  {
+    "limit": "min_current_ratio",
+    "value": 1.1,
+    "unit": "ratio",
+    "description": "Current assets over current liabilities"
+  },
+  {
+    "limit": "min_bureau_score",
+    "value": 450,
+    "unit": "score",
+    "description": "Below this the bureau record is adverse"
+  },
+  {
+    "limit": "write_off_limit_inr",
+    "value": 500000,
+    "unit": "INR",
+    "description": "A written-off amount at or above this is a past delinquency"
+  },
+  {
+    "limit": "auto_approve_limit_inr",
+    "value": 1000000,
+    "unit": "INR",
+    "description": "Largest loan the system may approve on its own"
+  },
+  {
+    "limit": "signatory_threshold_inr",
+    "value": 5000000,
+    "unit": "INR",
+    "description": "Above this a named human signatory is mandatory"
+  },
+  {
+    "limit": "revenue_tolerance_pct",
+    "value": 10,
+    "unit": "percent",
+    "description": "Declared versus verified revenue; beyond it, DOC_MISMATCH"
+  },
+  {
+    "limit": "fraud_hold_pct",
+    "value": 25,
+    "unit": "percent",
+    "description": "Declared versus verified revenue; beyond it, fraud hold"
+  },
+  {
+    "limit": "assessment_rate_pct",
+    "value": 14.0,
+    "unit": "percent a year",
+    "description": "Rate used to stress-test the proposed loan in the DSCR"
+  }
+]

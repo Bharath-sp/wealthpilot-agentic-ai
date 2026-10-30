@@ -1,0 +1,82 @@
+[
+  {
+    "grade": "A1",
+    "min_dscr": 2.0,
+    "min_bureau_score": 750,
+    "spread_bps": 150,
+    "indicative_rate_pct": 11.0,
+    "max_tenor_months": 84,
+    "collateral_cover_pct": 0,
+    "auto_approve_allowed": true
+  },
+  {
+    "grade": "A2",
+    "min_dscr": 1.75,
+    "min_bureau_score": 700,
+    "spread_bps": 200,
+    "indicative_rate_pct": 11.5,
+    "max_tenor_months": 72,
+    "collateral_cover_pct": 25,
+    "auto_approve_allowed": true
+  },
+  {
+    "grade": "B1",
+    "min_dscr": 1.5,
+    "min_bureau_score": 650,
+    "spread_bps": 275,
+    "indicative_rate_pct": 12.25,
+    "max_tenor_months": 60,
+    "collateral_cover_pct": 50,
+    "auto_approve_allowed": true
+  },
+  {
+    "grade": "B2",
+    "min_dscr": 1.35,
+    "min_bureau_score": 600,
+    "spread_bps": 350,
+    "indicative_rate_pct": 13.0,
+    "max_tenor_months": 60,
+    "collateral_cover_pct": 75,
+    "auto_approve_allowed": true
+  },
+  {
+    "grade": "C1",
+    "min_dscr": 1.25,
+    "min_bureau_score": 550,
+    "spread_bps": 450,
+    "indicative_rate_pct": 14.0,
+    "max_tenor_months": 48,
+    "collateral_cover_pct": 100,
+    "auto_approve_allowed": true
+  },
+  {
+    "grade": "C2",
+    "min_dscr": 1.15,
+    "min_bureau_score": 500,
+    "spread_bps": 575,
+    "indicative_rate_pct": 15.25,
+    "max_tenor_months": 36,
+    "collateral_cover_pct": 125,
+    "auto_approve_allowed": false
+  },
+  {
+    "grade": "D1",
+    "min_dscr": 1.0,
+    "min_bureau_score": 450,
+    "spread_bps": 725,
+    "indicative_rate_pct": 16.75,
+    "max_tenor_months": 24,
+    "collateral_cover_pct": 150,
+    "auto_approve_allowed": false
+  },
+  {
+    "grade": "D2",
+    "min_dscr": 0.0,
+    "min_bureau_score": 0,
+    "spread_bps": 900,
+    "indicative_rate_pct": 18.5,
+    "max_tenor_months": 12,
+    "collateral_cover_pct": 150,
+    "auto_approve_allowed": false
+  }
+]
